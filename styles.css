@@ -56,3 +56,32 @@
     font-size: 20px;
     margin: 10px 0;
   }
+  /* Centra el elemento y establece un ancho máximo y se asegura que los elementos puedan fluir através*/
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: visible;
+}
+
+/* Aplica el color de fondo, altura y "padding"*/
+
+.navbar {
+  background-color: purple;
+  height: 70px;
+  padding: 0 30px;
+}
+/* Establece el tamaño de la fuente (font size), reduce el peso de loa fuente (font-weight), agrega margen y alto de línea (line height) */
+
+.navbar h1 {
+  font-size: 30px;
+  font-weight: 300;
+  margin: 10px 0;
+  line-height: 1.2;
+}
+.navbar .flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
