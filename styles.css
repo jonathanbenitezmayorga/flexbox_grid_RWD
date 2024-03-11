@@ -85,3 +85,14 @@
   align-items: center;
   height: 100%;
 }
+.navbar ul {
+  display: flex;
+}
+
+/* Cambia el color de ambos enlaces a blanco, agrega padding entre si y margen también */
+
+.navbar a {
+  color: white;
+  padding: 9px;
+  margin: 0 10px;
+}
