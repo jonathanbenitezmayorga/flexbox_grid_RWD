@@ -154,3 +154,50 @@
   font-family: "poppins", sans-serif;
 
 }
+/* Centra el conetenedor, aplica un ancho máximo*/
+.lower-container {
+  margin: 120px auto;
+  padding: 0;
+  max-width: 1400px;
+}
+
+
+/* Apunta a todos los elementos h3 con clase CSS title */
+.title {
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+/* Apunta a todos los parrafos con la clase CSS text */
+.text {
+  color: black;
+  font-size: 19px;
+  width: 100%;
+  padding: 10px;
+  margin: 0, 20px;
+  text-align: justify;
+}
+/* Mostrar horizontalmente, poner un poco de espacio alrededor */
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Agregar algo de padding alrededor del contenedor. Alinear el texto al centro */
+.stats {
+  padding: 45px 50px;
+  text-align: center;
+}
+
+/* Aplicar margen y ancho */
+.stat {
+  margin: 0 30px;
+  text-align: center;
+  width: 800px;
+}
+.stats .fa {
+  color: rgb(128, 0, 0);
+}
