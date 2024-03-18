@@ -67,7 +67,7 @@
 /* Aplica el color de fondo, altura y "padding"*/
 
 .navbar {
-  background-color: rgb(102, 5, 5);
+  background-color: rgb(82, 73, 73);
   height: 70px;
   padding: 0 30px;
 }
@@ -98,7 +98,7 @@
 }
 .showcase {
   height: 300px;
-  background-color: rgb(128, 0, 0);
+  background-color: rgb(82, 73, 73);
 }
 
 /* Añade margen bajo el texto */
@@ -136,7 +136,7 @@
 .btn {
   border-radius: 6px;
   padding: 12px 20px;
-  background: #c56767;
+  background: rgb(82, 73, 73);
   border: none;
   margin-left: 10px;
   color: white;
@@ -199,7 +199,7 @@
   width: 800px;
 }
 .stats .fa {
-  color: rgb(128, 0, 0);
+  color: rgb(82, 73, 73);
 }
 .testimonial {
   color: black;
@@ -237,7 +237,7 @@ text-align: center;
 }
 .circle {
   background-color: transparent;
-  border:3px solid rgb(128, 0, 0);
+  border:3px solid rgb(82, 73, 73);
   height:90px;
   position: relative;
   top: -30px;
@@ -250,7 +250,7 @@ text-align: center;
 /* Add padding around the footer as well */
 
 footer {
-  background-color: rgb(128, 0, 0);
+  background-color: rgb(82, 73, 73);
   padding: 20px 10px;
 }
 
@@ -261,8 +261,8 @@ footer a {
   margin: 0 10px;
 }
 footer a:hover {
-  color: #c56767;
-  border-bottom: 2px solid #c56767;
+  color: rgb(82, 73, 73);
+  border-bottom: 2px solid rgb(82, 73, 73);
 }
 /* Tablets y pantallas más pequeñas */
 
@@ -308,7 +308,7 @@ footer a:hover {
 
 .circle {
     background-color: transparent;
-    border:3px solid rgb(128, 0, 0);
+    border:3px solid rgb(82, 73, 73);
     height:90px;
     position: relative;
     top: -30px;
