@@ -1,4 +1,6 @@
 # ejemplos_CSS_Flexbox_Grid
+de estos ejemplos fue de lo que nos guiamos
+
 ![yes](img/1cap.png)
 ![yes](img/2cap.png)
 ![yes](img/3cap.png)
